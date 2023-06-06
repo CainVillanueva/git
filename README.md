@@ -1,2 +1,2 @@
-# git
+# repository
 git pre-work practice
